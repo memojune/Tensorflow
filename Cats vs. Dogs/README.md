@@ -6,6 +6,6 @@
 #### training:
     训练模型
 #### data:
-    原始数据，来源于[kaggle](https://www.kaggle.com/c/dogs-vs-cats) 
+    原始数据，来源于——http://www.kaggle.com/c/dogs-vs-cats
 #### logs:
     存放模型
